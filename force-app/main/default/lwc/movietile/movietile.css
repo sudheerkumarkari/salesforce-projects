@@ -1,0 +1,25 @@
+.class1{
+    display:block;
+    background-color: black;
+    cursor:pointer;
+}
+.class2{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height:100%;
+    position :relative;
+}
+.class3{
+    position:absolute;
+    left:0;
+    bottom:0;
+    right:0;
+    background-color:black;
+    color:white;
+    padding: 6px 8px;
+    text-align:center;
+
+
+}

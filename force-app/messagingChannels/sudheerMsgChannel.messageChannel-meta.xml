@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MessageChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>58.0</apiVersion>  
+    <isExposed>true</isExposed>   
+    <masterLabel>sudheerMsgChannel</masterLabel>  
+    <description>This message channel allows communication between components.</description>
+    <lightningMessageFields>
+        <fieldName>messageToSend</fieldName>  
+        <description>Content of the message being sent.</description>
+    </lightningMessageFields>
+    <lightningMessageFields>
+        <fieldName>sourceSystem</fieldName>   
+        <description>Type of the message (e.g., info, warning, error).</description>
+    </lightningMessageFields>
+</MessageChannel>
