@@ -30,7 +30,7 @@
 .track-name {
     font-size: 1.5rem;
     font-weight: bold;
-    color: #1db954; /* Spotify green */
+    color: #1db954; 
     text-decoration: none;
 }
 
@@ -47,7 +47,7 @@
 
 .album-link {
     font-size: 1rem;
-    color: #1db954; /* Spotify green */
+    color: #1db954; 
     text-decoration: none;
     margin-top: 10px;
 }
